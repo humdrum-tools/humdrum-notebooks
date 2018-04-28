@@ -117,3 +117,11 @@ description: "News and updates for the Humdrum Notebooks website."
 
 # needed for sitemap.xml file only
 url: http://notebooks.humdrum.org/doc
+
+# Other variables:
+
+
+nbviewer: https://nbviewer.jupyter.org/github/humdrum-tools/humdrum-notebooks/blob/gh-pages
+
+
+
